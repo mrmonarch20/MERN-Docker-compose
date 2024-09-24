@@ -1,4 +1,4 @@
-# A simple MERN stack application
+# A simple MERN Stack Application
 
 **Note** - To run this project using `docker compose`, follow the below steps.
 
